@@ -1,0 +1,15 @@
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\bin\Debug\net6.0\Task_Bank.exe
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\bin\Debug\net6.0\Task_Bank.deps.json
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\bin\Debug\net6.0\Task_Bank.runtimeconfig.json
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\bin\Debug\net6.0\Task_Bank.dll
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\bin\Debug\net6.0\Task_Bank.pdb
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\obj\Debug\net6.0\Task_Bank.csproj.AssemblyReference.cache
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\obj\Debug\net6.0\Task_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\obj\Debug\net6.0\Task_Bank.AssemblyInfoInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\obj\Debug\net6.0\Task_Bank.AssemblyInfo.cs
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\obj\Debug\net6.0\Task_Bank.csproj.CoreCompileInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\obj\Debug\net6.0\Task_Bank.dll
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\obj\Debug\net6.0\refint\Task_Bank.dll
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\obj\Debug\net6.0\Task_Bank.pdb
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\obj\Debug\net6.0\Task_Bank.genruntimeconfig.cache
+C:\Users\vcebr\OneDrive\Desktop\Method_Overload\Task_Bank\Task_Bank\obj\Debug\net6.0\ref\Task_Bank.dll
